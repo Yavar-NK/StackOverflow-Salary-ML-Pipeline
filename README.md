@@ -15,8 +15,7 @@ This repository contains an end-to-end Machine Learning pipeline to predict deve
 
 ## 🚀 Getting Started
 
-1. Clone the repo: 
-   ```bash
+1. **Clone the repo:** ```bash
    git clone [https://github.com/Yavar-NK/StackOverflow-Salary-ML-Pipeline.git](https://github.com/Yavar-NK/StackOverflow-Salary-ML-Pipeline.git)
 
 ## 🚀 How to Run
