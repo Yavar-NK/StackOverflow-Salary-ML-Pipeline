@@ -1,3 +1,8 @@
+## 🔗 Interactive Demo
+You can run and explore the code directly in your browser using Google Colab:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1OImADIb1WlBXMCp2Po4tddEQWE0oLGIT)
+
 # StackOverflow Salary Prediction Pipeline
 
 This repository contains an end-to-end Machine Learning pipeline to predict developer salaries based on the **2022 Stack Overflow Developer Survey** dataset.
